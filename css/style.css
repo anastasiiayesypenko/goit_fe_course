@@ -47,11 +47,12 @@
     font-size: 30px;
 }
 
-.article {
+.section {
     text-align: justify;
 }
 
-.article div {
+.section div {
+    vertical-align: top;
     width: 420px;
     display: inline-block;
 }
@@ -71,4 +72,7 @@
 .text {
     margin-bottom: 130px;
     font-size: 14px;
+}
+.divforbutton{
+    text-align:center;
 }
